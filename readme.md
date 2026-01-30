@@ -22,3 +22,5 @@ A simple HTML portfolio website built for learning purposes.
    ```bash
    git clone https://github.com/MuhammadPhulpoto/Porfolio-Website-using-only-HTML---Cohort-Assigment
    ```
+4. Run Live Server
+5. Preview appears
